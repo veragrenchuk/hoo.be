@@ -1,0 +1,19 @@
+$primary-color: #78c4cb;
+$primary-dark: #1096a5;
+$white: #fff;
+$black: #000;
+$grey: #f3f3f3;
+$grey-font: #848484;
+$page-width: 41.5rem;
+$border-radius: 2.5rem;
+ 
+:export {
+  primaryColor: $primary-color;
+  white: $white;
+  black:$black;
+  page-width: $page-width;
+  border-radius: $border-radius;
+  grey-font: $grey-font;
+  grey: $grey;
+  primary-dark: $primary-dark;
+}
